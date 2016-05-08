@@ -5,20 +5,6 @@
 
 ### Program for calculate total of positives and negatives integer numbers ###
 
-###	weightCategory = {
-
-###		"Menor que 65kg": 								"Pena",
-###		"Maior ou igual a 65 kg e menor que 72 kg": 	"Leve",
-###		"Maior ou igual a 72 kg e menor que 79 kg": 	"Ligeiro",
-###		"Maior ou igual a 79 kg e menor que 86 kg": 	"Meio médio",
-###		"Maior ou igual a 86 kg e menor que 93 kg": 	"Médio",
-###		"Maior ou igual a 93 kg e menor que 100 kg": 	"Meio pesado",
-###		"Maior ou igual a 100 kg": 						"Pesado"
-
-###	}
-
-
-
 print('\n');
 print("### Program for calculate total of positives and negatives integer numbers ###")
 print("### ---------------------------------------------------------------------- ###")
