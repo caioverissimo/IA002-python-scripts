@@ -1,5 +1,6 @@
 ### IAL002 - Primeira Lista
-### 6. Escreva um programa que leia um número inteiro N e em seguida leia N números reais, calculando a soma de todos os valores positivos fornecidos, ignorando os negativos.
+### 6. Escreva um programa que leia um número inteiro N e em seguida leia N números reais, 
+###	calculando a soma de todos os valores positivos fornecidos, ignorando os negativos.
 
 ### Program for calculate total of determined-by-user number of positive values ###
 
