@@ -41,9 +41,20 @@ while True :
 # Verify and write if the number is 'positive' or 'negative'
 print("###RESULT###")
 if ( entryValue < 65 ) :
-    print("The current boxer weight", entryValue, "is on 'Pena' category.")
+    print("The current boxer weight", entryValue, "kg is on 'Pena' category.")
+elif ( entryValue >= 65.00 and entryValue < 72.00 ) :
+    print("The entry number", entryValue, "kg is on 'Leve' category.")
+elif ( entryValue >= 72.00 and entryValue < 79.00 ) :
+    print("The entry number", entryValue, "kg is on 'Ligeiro' category.")
+elif ( entryValue >= 79.00 and entryValue < 86.00 ) :
+    print("The entry number", entryValue, "kg is on 'Meio medio' category.")
+elif ( entryValue >= 86.00 and entryValue < 93.00 ) :
+    print("The entry number", entryValue, "kg is on 'Medio' category.")
+elif ( entryValue >= 93.00 and entryValue < 100.00 ) :
+    print("The entry number", entryValue, "kg is on 'Meio pesado' category.")
 else :
-    print("The entry number", entryValue, "is negative")
+    print("The entry number", entryValue, "kg is on 'Pesado' category.")
+  
 
 
 print("\n")
