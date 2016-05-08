@@ -27,9 +27,9 @@ while True :
 # Verify and write if the number is 'positive' or 'negative'
 if ( entryValue >= 0 ) :
     print("###RESULT###")
-    print("The entry number", entryValue, "is positive")
+    print("The entry number", entryValue, "is positive.")
 else :
-    print("The entry number", entryValue, "is negative")
+    print("The entry number", entryValue, "is negative.")
 
 
 print("\n")
